@@ -65,7 +65,7 @@ nome = input("Qual o seu nome? ")
 
  # Imagem
 
-![Logo do Python](python.png)
+![Logo do Python](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png)
 
 
 
